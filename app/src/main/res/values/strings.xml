@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">HemoCare2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="no_data">No data</string>
+
+    <string name="title_devices">BLE send button</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+    <!-- tambahan-->
+    <string name="petunjuk">Taruh jari anda pada alat pengukur</string>
+
+    <string name="lakilaki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="username">Nama pengguna</string>
+    <string name="userid">Id pengguna</string>
+    <string name="name">Nama lengkap</string>
+    <string name="age">Umur</string>
+    <string name="gender">Jenis kelamin</string>
+    <string name="password">Kata sandi</string>
+    <string name="confirmpassword">Konfirmasi kata sandi</string>
+    <string name="signup">Buat akun</string>
+    <string name="login">Masuk</string>
+    <string name="edit">Sunting akun</string>
+    <string name="logout">Keluar</string>
+    <string name="bt">Bluetooth</string>
+    <string name="connect">Sambungkan Bluetooth</string>
+    <string name="disconnect">Putuskan Bluetooth</string>
+    <string name="connected">Status Bluetooth: Terhubung</string>
+    <string name="disconnected">Status Bluetooth: Terputus</string>
+    <string name="start">Mulai</string>
+    <string name="save">Simpan</string>
+    <string name="pair">Pasangkan Bluetooth</string>
+    <string name="graph">Riwayat pengukuran</string>
+
+
+
+</resources>

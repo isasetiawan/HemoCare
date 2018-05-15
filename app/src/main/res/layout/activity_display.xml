@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context=".DisplayActivity">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="WELCOME"
+        android:textAlignment="textStart"
+        android:textSize="36sp" />
+    <TextView
+        android:id="@+id/TVuserid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UserID" />
+    <TextView
+        android:id="@+id/TVusername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Username" />
+    <TextView
+        android:id="@+id/TVname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name" />
+
+    <TextView
+        android:id="@+id/TVgender"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gender" />
+    <TextView
+        android:id="@+id/TVage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Age" />
+    <TextView
+        android:id="@+id/TVpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Password" />
+
+    <TextView
+        android:id="@+id/TVhemoglobin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Last Hemoglobin" />
+    <Button
+        android:id="@+id/editAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onEditClick"
+        android:text="Edit Akun" />
+
+</LinearLayout>
